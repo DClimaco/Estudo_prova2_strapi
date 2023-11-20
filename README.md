@@ -1,0 +1,1 @@
+# Estudo_prova2_strapi
